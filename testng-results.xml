@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Username field is present.]]>
+    </line>
+    <line>
+      <![CDATA[password field is present.]]>
+    </line>
+    <line>
+      <![CDATA[Forgot password option is present.]]>
+    </line>
+    <line>
+      <![CDATA[login button is present.]]>
+    </line>
+    <line>
+      <![CDATA[Page title after login is Learner Landing]]>
+    </line>
+    <line>
+      <![CDATA[Login verified done!]]>
+    </line>
+    <line>
+      <![CDATA[Dashboard option is dispalyed]]>
+    </line>
+    <line>
+      <![CDATA[wod is present]]>
+    </line>
+    <line>
+      <![CDATA[close button is present]]>
+    </line>
+    <line>
+      <![CDATA[wod is closed]]>
+    </line>
+    <line>
+      <![CDATA[wod is working fine]]>
+    </line>
+    <line>
+      <![CDATA["HCL Training and staffing services" is displayed ]]>
+    </line>
+    <line>
+      <![CDATA[Induction dropdown button is present]]>
+    </line>
+    <line>
+      <![CDATA[Assessment option is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Title of page isInduction-course: Induction Assessment]]>
+    </line>
+    <line>
+      <![CDATA[ind Assessment  is working fine!]]>
+    </line>
+    <line>
+      <![CDATA["HCL Training and staffing services" is displayed ]]>
+    </line>
+    <line>
+      <![CDATA[Induction dropdown button is present]]>
+    </line>
+    <line>
+      <![CDATA[Ind Handbook option is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Title of page isInduction-course: Scholar Handbook]]>
+    </line>
+    <line>
+      <![CDATA[ind handbook is working fine!]]>
+    </line>
+    <line>
+      <![CDATA["HCL Training and staffing services" is displayed ]]>
+    </line>
+    <line>
+      <![CDATA[Ethics option is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Title of page isInduction-course: Ethics at HCL]]>
+    </line>
+    <line>
+      <![CDATA[Ethics is working fine!]]>
+    </line>
+    <line>
+      <![CDATA[feedback form is displayed]]>
+    </line>
+    <line>
+      <![CDATA[course dropdown is present]]>
+    </line>
+    <line>
+      <![CDATA[week dropdown is present]]>
+    </line>
+    <line>
+      <![CDATA[Trainer dropedown is present]]>
+    </line>
+    <line>
+      <![CDATA[Radio button 1 is present]]>
+    </line>
+    <line>
+      <![CDATA[Radio button 2 is present]]>
+    </line>
+    <line>
+      <![CDATA[Radio button 3 is present]]>
+    </line>
+    <line>
+      <![CDATA[Radio button 4 is present]]>
+    </line>
+    <line>
+      <![CDATA[Radio button 5 is present]]>
+    </line>
+    <line>
+      <![CDATA[Radio button 6 is present]]>
+    </line>
+    <line>
+      <![CDATA[Radio button 7 is present]]>
+    </line>
+    <line>
+      <![CDATA[Comment box for trainer is present]]>
+    </line>
+    <line>
+      <![CDATA[Feedback On content is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Commnet box of content feedback is shown]]>
+    </line>
+    <line>
+      <![CDATA[Feedback on Lms is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Lms comment box is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Text in comment box is ]]>
+    </line>
+    <line>
+      <![CDATA[Submit button displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is :Scholar Feedback]]>
+    </line>
+    <line>
+      <![CDATA[Resources is present]]>
+    </line>
+    <line>
+      <![CDATA[Vlab is present]]>
+    </line>
+    <line>
+      <![CDATA[V&A lab working fine!]]>
+    </line>
+    <line>
+      <![CDATA[EngPrimer is present]]>
+    </line>
+    <line>
+      <![CDATA[English Primer is working fine!]]>
+    </line>
+    <line>
+      <![CDATA["HCL Training and staffing services" is displayed ]]>
+    </line>
+    <line>
+      <![CDATA[Score card option is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Page Title is:Score Card]]>
+    </line>
+    <line>
+      <![CDATA[Close option is present]]>
+    </line>
+    <line>
+      <![CDATA[scorecard is done]]>
+    </line>
+    <line>
+      <![CDATA[Learning Labs is present]]>
+    </line>
+    <line>
+      <![CDATA[The page is opened is:Update Secret Question]]>
+    </line>
+    <line>
+      <![CDATA[Learning Labs is working fine!]]>
+    </line>
+    <line>
+      <![CDATA[ChatBot option is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Chatbot is done]]>
+    </line>
+    <line>
+      <![CDATA[dropdown is present]]>
+    </line>
+    <line>
+      <![CDATA[option is selected]]>
+    </line>
+    <line>
+      <![CDATA[batch selection is done]]>
+    </line>
+    <line>
+      <![CDATA[My workbook calender option is present.]]>
+    </line>
+    <line>
+      <![CDATA[Page title is:My Dashboard]]>
+    </line>
+    <line>
+      <![CDATA[My Workbook  calender working fine!]]>
+    </line>
+    <line>
+      <![CDATA[Learning Path is present]]>
+    </line>
+    <line>
+      <![CDATA[Learning Path is working fine!]]>
+    </line>
+    <line>
+      <![CDATA[My program milestone option is present]]>
+    </line>
+    <line>
+      <![CDATA[Page title is : My Dashboard]]>
+    </line>
+    <line>
+      <![CDATA[My Program Milestone is done]]>
+    </line>
+    <line>
+      <![CDATA[Name is present]]>
+    </line>
+    <line>
+      <![CDATA[The title of the page is My Dashboard]]>
+    </line>
+    <line>
+      <![CDATA[MyLearning is present]]>
+    </line>
+    <line>
+      <![CDATA[The title of the page is Dashboard]]>
+    </line>
+    <line>
+      <![CDATA[MyLearning is working fine!]]>
+    </line>
+    <line>
+      <![CDATA[Profile is present]]>
+    </line>
+    <line>
+      <![CDATA[The title of the page is Dheeraj .: Public profile]]>
+    </line>
+    <line>
+      <![CDATA[Profile is working fine!]]>
+    </line>
+    <line>
+      <![CDATA[grades is present]]>
+    </line>
+    <line>
+      <![CDATA[The title of the page is Grades - Dheeraj .]]>
+    </line>
+    <line>
+      <![CDATA[grades is working fine!]]>
+    </line>
+    <line>
+      <![CDATA[messages is present]]>
+    </line>
+    <line>
+      <![CDATA[The title of the page is Messages]]>
+    </line>
+    <line>
+      <![CDATA[messages is working fine!]]>
+    </line>
+    <line>
+      <![CDATA[preference is present]]>
+    </line>
+    <line>
+      <![CDATA[The title of the page is Preferences]]>
+    </line>
+    <line>
+      <![CDATA[parefarance is working fine!]]>
+    </line>
+    <line>
+      <![CDATA[Dashboard option is dispalyed]]>
+    </line>
+    <line>
+      <![CDATA[Communication/Softskill option is present]]>
+    </line>
+    <line>
+      <![CDATA[Tiltle of the page is : Course: Communication/SoftSkills]]>
+    </line>
+    <line>
+      <![CDATA[module in communication is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Tiltle of the page is : Course: Communication/SoftSkills]]>
+    </line>
+    <line>
+      <![CDATA[Topic inside module is present]]>
+    </line>
+    <line>
+      <![CDATA[Tiltle of the page is : Course: Communication/SoftSkills, Section: Adjectives and Adverbs]]>
+    </line>
+    <line>
+      <![CDATA[Content inside topic is present]]>
+    </line>
+    <line>
+      <![CDATA[Tiltle of the page is : Communication/SoftSkills-2247: Adjectives and Adverbs]]>
+    </line>
+    <line>
+      <![CDATA[Comms is done]]>
+    </line>
+    <line>
+      <![CDATA[Software Engineering is present]]>
+    </line>
+    <line>
+      <![CDATA[the title of the page is Learner Landing]]>
+    </line>
+    <line>
+      <![CDATA[Module 1 is present]]>
+    </line>
+    <line>
+      <![CDATA[the title of the page is Course: Software Engineering]]>
+    </line>
+    <line>
+      <![CDATA[topic is present]]>
+    </line>
+    <line>
+      <![CDATA[the title of the page is Course: Software Engineering, Section: SE_DAY1]]>
+    </line>
+    <line>
+      <![CDATA[Software Engineering is working fine!]]>
+    </line>
+    <line>
+      <![CDATA[Java options is present]]>
+    </line>
+    <line>
+      <![CDATA[Page Title is : Course: Java]]>
+    </line>
+    <line>
+      <![CDATA[module inside java is present]]>
+    </line>
+    <line>
+      <![CDATA[Page Title is : Course: Java]]>
+    </line>
+    <line>
+      <![CDATA[Topics inside module is present]]>
+    </line>
+    <line>
+      <![CDATA[Page Title is : Course: Java, Section: Topic 1: Introduction to java]]>
+    </line>
+    <line>
+      <![CDATA[Content inside topic is present]]>
+    </line>
+    <line>
+      <![CDATA[Page Title is : Java-2247: 1_Introducing_Java]]>
+    </line>
+    <line>
+      <![CDATA[Java cource is done]]>
+    </line>
+    <line>
+      <![CDATA[ITP Java is present]]>
+    </line>
+    <line>
+      <![CDATA[Switching the tabs]]>
+    </line>
+    <line>
+      <![CDATA[the title of the page is Course: ITP Java]]>
+    </line>
+    <line>
+      <![CDATA[Module is present]]>
+    </line>
+    <line>
+      <![CDATA[the title of the page is Course: ITP Java]]>
+    </line>
+    <line>
+      <![CDATA[topic is present]]>
+    </line>
+    <line>
+      <![CDATA[the title of the page is Course: ITP Java, Section: 1. Introduction_To_Java]]>
+    </line>
+    <line>
+      <![CDATA[content is present]]>
+    </line>
+    <line>
+      <![CDATA[the title of the page is ITP Java-2247: 1. Introduction_To_Java]]>
+    </line>
+    <line>
+      <![CDATA[ITP Java is working fine!]]>
+    </line>
+    <line>
+      <![CDATA[Testing option is present]]>
+    </line>
+    <line>
+      <![CDATA[Page title is Course: Testing]]>
+    </line>
+    <line>
+      <![CDATA[Modules inside testing options are present]]>
+    </line>
+    <line>
+      <![CDATA[Page title is Course: Testing]]>
+    </line>
+    <line>
+      <![CDATA[topics inside modules are present]]>
+    </line>
+    <line>
+      <![CDATA[Page title is Course: Testing, Section: Topic 1-SOFTWARE DEVELOPMENT LIFE CYCLE]]>
+    </line>
+    <line>
+      <![CDATA[Content inside topic is present]]>
+    </line>
+    <line>
+      <![CDATA[Page title is Testing-2247: SoftwareDevelopmentLifeCycle]]>
+    </line>
+    <line>
+      <![CDATA[Testing is done]]>
+    </line>
+    <line>
+      <![CDATA[Project option is present]]>
+    </line>
+    <line>
+      <![CDATA[Page Title is: Course: Project]]>
+    </line>
+    <line>
+      <![CDATA[Modules inside project are present]]>
+    </line>
+    <line>
+      <![CDATA[Page Title is: Course: Project]]>
+    </line>
+    <line>
+      <![CDATA[Topics inside modules are present]]>
+    </line>
+    <line>
+      <![CDATA[Page Title is: Course: Project, Section: Topic 1]]>
+    </line>
+    <line>
+      <![CDATA[Project is done]]>
+    </line>
+    <line>
+      <![CDATA[sql is present]]>
+    </line>
+    <line>
+      <![CDATA[the title of the page is Course: SQL]]>
+    </line>
+    <line>
+      <![CDATA[sql is working fine]]>
+    </line>
+    <line>
+      <![CDATA[Doubt Clearing session option is present]]>
+    </line>
+    <line>
+      <![CDATA[Doubt clearing session is done]]>
+    </line>
+    <line>
+      <![CDATA[Live connect is present]]>
+    </line>
+    <line>
+      <![CDATA[the title of the page is : Join conversation]]>
+    </line>
+    <line>
+      <![CDATA[Live connect is working fine]]>
+    </line>
+    <line>
+      <![CDATA[Assessment is present]]>
+    </line>
+    <line>
+      <![CDATA[module is present]]>
+    </line>
+    <line>
+      <![CDATA[Content  is present]]>
+    </line>
+    <line>
+      <![CDATA[assessment is working fine]]>
+    </line>
+    <line>
+      <![CDATA[Month wise session calender is present]]>
+    </line>
+    <line>
+      <![CDATA[January month is shown in calender]]>
+    </line>
+    <line>
+      <![CDATA[February month is present in calender]]>
+    </line>
+    <line>
+      <![CDATA[Month wise session calender displayed!]]>
+    </line>
+    <line>
+      <![CDATA[Term Assessment record is shown!]]>
+    </line>
+    <line>
+      <![CDATA[Communication Assessment record is shown!]]>
+    </line>
+    <line>
+      <![CDATA[Daily Quiz record is shown]]>
+    </line>
+    <line>
+      <![CDATA[Name is present.]]>
+    </line>
+    <line>
+      <![CDATA[Page title is My Dashboard]]>
+    </line>
+    <line>
+      <![CDATA[Log out is present]]>
+    </line>
+    <line>
+      <![CDATA[Page title is HCL TRAINING AND STAFFING SERVICES: Log in to the site]]>
+    </line>
+    <line>
+      <![CDATA[Logout successful]]>
+    </line>
+    <line>
+      <![CDATA[Log Out function is working fine!]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-04-02T10:18:16Z" name="Default suite" finished-at="2022-04-02T10:24:33Z" duration-ms="376933">
+    <groups>
+    </groups>
+    <test started-at="2022-04-02T10:18:16Z" name="Default test" finished-at="2022-04-02T10:24:33Z" duration-ms="376933">
+      <class name="com.LMS.Test.verifyLMS_complete">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.LMS.Test.verifyLMS_complete@1190200a]" started-at="2022-04-02T15:48:16Z" name="SetUp" finished-at="2022-04-02T15:48:40Z" duration-ms="24090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="verifyLMS_complete()[pri:0, instance:com.LMS.Test.verifyLMS_complete@1190200a]" started-at="2022-04-02T15:48:40Z" name="verifyLMS_complete" finished-at="2022-04-02T15:54:31Z" duration-ms="351275" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Username field is present.]]>
+            </line>
+            <line>
+              <![CDATA[password field is present.]]>
+            </line>
+            <line>
+              <![CDATA[Forgot password option is present.]]>
+            </line>
+            <line>
+              <![CDATA[login button is present.]]>
+            </line>
+            <line>
+              <![CDATA[Page title after login is Learner Landing]]>
+            </line>
+            <line>
+              <![CDATA[Login verified done!]]>
+            </line>
+            <line>
+              <![CDATA[Dashboard option is dispalyed]]>
+            </line>
+            <line>
+              <![CDATA[wod is present]]>
+            </line>
+            <line>
+              <![CDATA[close button is present]]>
+            </line>
+            <line>
+              <![CDATA[wod is closed]]>
+            </line>
+            <line>
+              <![CDATA[wod is working fine]]>
+            </line>
+            <line>
+              <![CDATA["HCL Training and staffing services" is displayed ]]>
+            </line>
+            <line>
+              <![CDATA[Induction dropdown button is present]]>
+            </line>
+            <line>
+              <![CDATA[Assessment option is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Title of page isInduction-course: Induction Assessment]]>
+            </line>
+            <line>
+              <![CDATA[ind Assessment  is working fine!]]>
+            </line>
+            <line>
+              <![CDATA["HCL Training and staffing services" is displayed ]]>
+            </line>
+            <line>
+              <![CDATA[Induction dropdown button is present]]>
+            </line>
+            <line>
+              <![CDATA[Ind Handbook option is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Title of page isInduction-course: Scholar Handbook]]>
+            </line>
+            <line>
+              <![CDATA[ind handbook is working fine!]]>
+            </line>
+            <line>
+              <![CDATA["HCL Training and staffing services" is displayed ]]>
+            </line>
+            <line>
+              <![CDATA[Ethics option is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Title of page isInduction-course: Ethics at HCL]]>
+            </line>
+            <line>
+              <![CDATA[Ethics is working fine!]]>
+            </line>
+            <line>
+              <![CDATA[feedback form is displayed]]>
+            </line>
+            <line>
+              <![CDATA[course dropdown is present]]>
+            </line>
+            <line>
+              <![CDATA[week dropdown is present]]>
+            </line>
+            <line>
+              <![CDATA[Trainer dropedown is present]]>
+            </line>
+            <line>
+              <![CDATA[Radio button 1 is present]]>
+            </line>
+            <line>
+              <![CDATA[Radio button 2 is present]]>
+            </line>
+            <line>
+              <![CDATA[Radio button 3 is present]]>
+            </line>
+            <line>
+              <![CDATA[Radio button 4 is present]]>
+            </line>
+            <line>
+              <![CDATA[Radio button 5 is present]]>
+            </line>
+            <line>
+              <![CDATA[Radio button 6 is present]]>
+            </line>
+            <line>
+              <![CDATA[Radio button 7 is present]]>
+            </line>
+            <line>
+              <![CDATA[Comment box for trainer is present]]>
+            </line>
+            <line>
+              <![CDATA[Feedback On content is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Commnet box of content feedback is shown]]>
+            </line>
+            <line>
+              <![CDATA[Feedback on Lms is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Lms comment box is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Text in comment box is ]]>
+            </line>
+            <line>
+              <![CDATA[Submit button displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is :Scholar Feedback]]>
+            </line>
+            <line>
+              <![CDATA[Resources is present]]>
+            </line>
+            <line>
+              <![CDATA[Vlab is present]]>
+            </line>
+            <line>
+              <![CDATA[V&A lab working fine!]]>
+            </line>
+            <line>
+              <![CDATA[EngPrimer is present]]>
+            </line>
+            <line>
+              <![CDATA[English Primer is working fine!]]>
+            </line>
+            <line>
+              <![CDATA["HCL Training and staffing services" is displayed ]]>
+            </line>
+            <line>
+              <![CDATA[Score card option is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Page Title is:Score Card]]>
+            </line>
+            <line>
+              <![CDATA[Close option is present]]>
+            </line>
+            <line>
+              <![CDATA[scorecard is done]]>
+            </line>
+            <line>
+              <![CDATA[Learning Labs is present]]>
+            </line>
+            <line>
+              <![CDATA[The page is opened is:Update Secret Question]]>
+            </line>
+            <line>
+              <![CDATA[Learning Labs is working fine!]]>
+            </line>
+            <line>
+              <![CDATA[ChatBot option is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Chatbot is done]]>
+            </line>
+            <line>
+              <![CDATA[dropdown is present]]>
+            </line>
+            <line>
+              <![CDATA[option is selected]]>
+            </line>
+            <line>
+              <![CDATA[batch selection is done]]>
+            </line>
+            <line>
+              <![CDATA[My workbook calender option is present.]]>
+            </line>
+            <line>
+              <![CDATA[Page title is:My Dashboard]]>
+            </line>
+            <line>
+              <![CDATA[My Workbook  calender working fine!]]>
+            </line>
+            <line>
+              <![CDATA[Learning Path is present]]>
+            </line>
+            <line>
+              <![CDATA[Learning Path is working fine!]]>
+            </line>
+            <line>
+              <![CDATA[My program milestone option is present]]>
+            </line>
+            <line>
+              <![CDATA[Page title is : My Dashboard]]>
+            </line>
+            <line>
+              <![CDATA[My Program Milestone is done]]>
+            </line>
+            <line>
+              <![CDATA[Name is present]]>
+            </line>
+            <line>
+              <![CDATA[The title of the page is My Dashboard]]>
+            </line>
+            <line>
+              <![CDATA[MyLearning is present]]>
+            </line>
+            <line>
+              <![CDATA[The title of the page is Dashboard]]>
+            </line>
+            <line>
+              <![CDATA[MyLearning is working fine!]]>
+            </line>
+            <line>
+              <![CDATA[Profile is present]]>
+            </line>
+            <line>
+              <![CDATA[The title of the page is Dheeraj .: Public profile]]>
+            </line>
+            <line>
+              <![CDATA[Profile is working fine!]]>
+            </line>
+            <line>
+              <![CDATA[grades is present]]>
+            </line>
+            <line>
+              <![CDATA[The title of the page is Grades - Dheeraj .]]>
+            </line>
+            <line>
+              <![CDATA[grades is working fine!]]>
+            </line>
+            <line>
+              <![CDATA[messages is present]]>
+            </line>
+            <line>
+              <![CDATA[The title of the page is Messages]]>
+            </line>
+            <line>
+              <![CDATA[messages is working fine!]]>
+            </line>
+            <line>
+              <![CDATA[preference is present]]>
+            </line>
+            <line>
+              <![CDATA[The title of the page is Preferences]]>
+            </line>
+            <line>
+              <![CDATA[parefarance is working fine!]]>
+            </line>
+            <line>
+              <![CDATA[Dashboard option is dispalyed]]>
+            </line>
+            <line>
+              <![CDATA[Communication/Softskill option is present]]>
+            </line>
+            <line>
+              <![CDATA[Tiltle of the page is : Course: Communication/SoftSkills]]>
+            </line>
+            <line>
+              <![CDATA[module in communication is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Tiltle of the page is : Course: Communication/SoftSkills]]>
+            </line>
+            <line>
+              <![CDATA[Topic inside module is present]]>
+            </line>
+            <line>
+              <![CDATA[Tiltle of the page is : Course: Communication/SoftSkills, Section: Adjectives and Adverbs]]>
+            </line>
+            <line>
+              <![CDATA[Content inside topic is present]]>
+            </line>
+            <line>
+              <![CDATA[Tiltle of the page is : Communication/SoftSkills-2247: Adjectives and Adverbs]]>
+            </line>
+            <line>
+              <![CDATA[Comms is done]]>
+            </line>
+            <line>
+              <![CDATA[Software Engineering is present]]>
+            </line>
+            <line>
+              <![CDATA[the title of the page is Learner Landing]]>
+            </line>
+            <line>
+              <![CDATA[Module 1 is present]]>
+            </line>
+            <line>
+              <![CDATA[the title of the page is Course: Software Engineering]]>
+            </line>
+            <line>
+              <![CDATA[topic is present]]>
+            </line>
+            <line>
+              <![CDATA[the title of the page is Course: Software Engineering, Section: SE_DAY1]]>
+            </line>
+            <line>
+              <![CDATA[Software Engineering is working fine!]]>
+            </line>
+            <line>
+              <![CDATA[Java options is present]]>
+            </line>
+            <line>
+              <![CDATA[Page Title is : Course: Java]]>
+            </line>
+            <line>
+              <![CDATA[module inside java is present]]>
+            </line>
+            <line>
+              <![CDATA[Page Title is : Course: Java]]>
+            </line>
+            <line>
+              <![CDATA[Topics inside module is present]]>
+            </line>
+            <line>
+              <![CDATA[Page Title is : Course: Java, Section: Topic 1: Introduction to java]]>
+            </line>
+            <line>
+              <![CDATA[Content inside topic is present]]>
+            </line>
+            <line>
+              <![CDATA[Page Title is : Java-2247: 1_Introducing_Java]]>
+            </line>
+            <line>
+              <![CDATA[Java cource is done]]>
+            </line>
+            <line>
+              <![CDATA[ITP Java is present]]>
+            </line>
+            <line>
+              <![CDATA[Switching the tabs]]>
+            </line>
+            <line>
+              <![CDATA[the title of the page is Course: ITP Java]]>
+            </line>
+            <line>
+              <![CDATA[Module is present]]>
+            </line>
+            <line>
+              <![CDATA[the title of the page is Course: ITP Java]]>
+            </line>
+            <line>
+              <![CDATA[topic is present]]>
+            </line>
+            <line>
+              <![CDATA[the title of the page is Course: ITP Java, Section: 1. Introduction_To_Java]]>
+            </line>
+            <line>
+              <![CDATA[content is present]]>
+            </line>
+            <line>
+              <![CDATA[the title of the page is ITP Java-2247: 1. Introduction_To_Java]]>
+            </line>
+            <line>
+              <![CDATA[ITP Java is working fine!]]>
+            </line>
+            <line>
+              <![CDATA[Testing option is present]]>
+            </line>
+            <line>
+              <![CDATA[Page title is Course: Testing]]>
+            </line>
+            <line>
+              <![CDATA[Modules inside testing options are present]]>
+            </line>
+            <line>
+              <![CDATA[Page title is Course: Testing]]>
+            </line>
+            <line>
+              <![CDATA[topics inside modules are present]]>
+            </line>
+            <line>
+              <![CDATA[Page title is Course: Testing, Section: Topic 1-SOFTWARE DEVELOPMENT LIFE CYCLE]]>
+            </line>
+            <line>
+              <![CDATA[Content inside topic is present]]>
+            </line>
+            <line>
+              <![CDATA[Page title is Testing-2247: SoftwareDevelopmentLifeCycle]]>
+            </line>
+            <line>
+              <![CDATA[Testing is done]]>
+            </line>
+            <line>
+              <![CDATA[Project option is present]]>
+            </line>
+            <line>
+              <![CDATA[Page Title is: Course: Project]]>
+            </line>
+            <line>
+              <![CDATA[Modules inside project are present]]>
+            </line>
+            <line>
+              <![CDATA[Page Title is: Course: Project]]>
+            </line>
+            <line>
+              <![CDATA[Topics inside modules are present]]>
+            </line>
+            <line>
+              <![CDATA[Page Title is: Course: Project, Section: Topic 1]]>
+            </line>
+            <line>
+              <![CDATA[Project is done]]>
+            </line>
+            <line>
+              <![CDATA[sql is present]]>
+            </line>
+            <line>
+              <![CDATA[the title of the page is Course: SQL]]>
+            </line>
+            <line>
+              <![CDATA[sql is working fine]]>
+            </line>
+            <line>
+              <![CDATA[Doubt Clearing session option is present]]>
+            </line>
+            <line>
+              <![CDATA[Doubt clearing session is done]]>
+            </line>
+            <line>
+              <![CDATA[Live connect is present]]>
+            </line>
+            <line>
+              <![CDATA[the title of the page is : Join conversation]]>
+            </line>
+            <line>
+              <![CDATA[Live connect is working fine]]>
+            </line>
+            <line>
+              <![CDATA[Assessment is present]]>
+            </line>
+            <line>
+              <![CDATA[module is present]]>
+            </line>
+            <line>
+              <![CDATA[Content  is present]]>
+            </line>
+            <line>
+              <![CDATA[assessment is working fine]]>
+            </line>
+            <line>
+              <![CDATA[Month wise session calender is present]]>
+            </line>
+            <line>
+              <![CDATA[January month is shown in calender]]>
+            </line>
+            <line>
+              <![CDATA[February month is present in calender]]>
+            </line>
+            <line>
+              <![CDATA[Month wise session calender displayed!]]>
+            </line>
+            <line>
+              <![CDATA[Term Assessment record is shown!]]>
+            </line>
+            <line>
+              <![CDATA[Communication Assessment record is shown!]]>
+            </line>
+            <line>
+              <![CDATA[Daily Quiz record is shown]]>
+            </line>
+            <line>
+              <![CDATA[Name is present.]]>
+            </line>
+            <line>
+              <![CDATA[Page title is My Dashboard]]>
+            </line>
+            <line>
+              <![CDATA[Log out is present]]>
+            </line>
+            <line>
+              <![CDATA[Page title is HCL TRAINING AND STAFFING SERVICES: Log in to the site]]>
+            </line>
+            <line>
+              <![CDATA[Logout successful]]>
+            </line>
+            <line>
+              <![CDATA[Log Out function is working fine!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLMS_complete -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.LMS.Test.verifyLMS_complete@1190200a]" started-at="2022-04-02T15:54:31Z" name="tearDown" finished-at="2022-04-02T15:54:33Z" duration-ms="1527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.LMS.Test.verifyLMS_complete -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
