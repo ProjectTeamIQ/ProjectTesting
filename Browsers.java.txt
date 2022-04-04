@@ -1,0 +1,28 @@
+package helper;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class Browsers {
+	static WebDriver driver;
+	public static WebDriver getBrowsers(String browser, String url) {
+		if(browser.equalsIgnoreCase("Edge")) {
+			  System.setProperty("webdriver.edge.driver", "C:\\Users\\dheeraj.v\\Downloads\\edgedriver_win64\\msedgedriver.exe");
+			  driver=new EdgeDriver();
+		}
+		else if(browser.equalsIgnoreCase("chrome")) {
+			System.setProperty("webdriver.chrome.driver","C:\\Users\\dheeraj.v\\Downloads\\chromedriver_win32\\chromedriver.exe");		
+			driver=new ChromeDriver();
+		}
+		else if(browser.equalsIgnoreCase("fireFox")) {
+			driver=new FirefoxDriver();
+		}
+		driver.manage().window().maximize();
+		driver.get(url);
+		return driver;
+		
+	}
+
+}
